@@ -1,0 +1,20 @@
+{
+  "name": "dotplot-vis-plugin",
+  "version": "0.14.0",
+  "description": "Visualize dot with metrics in both axis",
+  "authors": [
+    "David Moreno Lumbreras <dmorenolumb@gmail.com>",
+    "Eva Millán <evamillan@bitergia.com>"
+  ],
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "yarn plugin-helpers build",
+    "plugin-helpers": "node ../../scripts/plugin_helpers",
+    "osd": "node ../../scripts/osd"
+  },
+  "dependencies": {
+    "plotly.js": "^2.27.0",
+    "randomcolor": "0.5.3",
+    "react-plotly.js": "^2.6.0"
+  }
+}
