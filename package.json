@@ -1,6 +1,6 @@
 {
   "name": "dotplot-vis-plugin",
-  "version": "0.18.0",
+  "version": "0.19.0-rc.1",
   "description": "Visualize dot with metrics in both axis",
   "authors": [
     "David Moreno Lumbreras <dmorenolumb@gmail.com>",
